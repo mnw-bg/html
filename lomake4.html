@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <title>Yhteydenottolomake</title>
+</head>
+<body>
+
+<form action="#" method="post">
+    <table>
+        <!-- Etunimi -->
+        <tr>
+            <td class="label-cell">Etunimi</td>
+            <td><input type="text" name="etunimi"></td>
+        </tr>
+        
+        <!-- Sukunimi -->
+        <tr>
+            <td class="label-cell">Sukunimi</td>
+            <td><input type="text" name="sukunimi"></td>
+        </tr>
+
+        <!-- Sukupuoli -->
+        <tr>
+            <td class="label-cell">Sukupuoli</td>
+            <td>
+                <input type="radio" id="nainen" name="sukupuoli" value="nainen">
+                <label for="nainen">Nainen</label><br>
+                <input type="radio" id="mies" name="sukupuoli" value="mies">
+                <label for="mies">Mies</label>
+            </td>
+        </tr>
+
+        <!-- Asian laatu -->
+        <tr>
+            <td class="label-cell">Asian laatu</td>
+            <td>
+                <select name="asia">
+                    <option value="">Valitse listalta</option>
+                    <option value="palaute">Palaute</option>
+                    <option value="kysymys">Kysymys</option>
+                    <option value="muu">Muu asia</option>
+                </select>
+            </td>
+        </tr>
+
+        <!-- Tarkempi määrittely -->
+        <tr>
+            <td class="label-cell">Tarkempi määrittely</td>
+            <td><textarea name="viesti"></textarea></td>
+        </tr>
+
+        <!-- Painikkeet -->
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Submit">
+                <input type="reset" value="Reset">
+            </td>
+        </tr>
+    </table>
+</form>
+
+</body>
+</html>
