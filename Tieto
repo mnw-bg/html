@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>
     <meta charset="UTF-8">
@@ -68,4 +69,76 @@
      
         
 </body>
+=======
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tietoturvasuunnitelman runko</title>
+</head>
+<body>
+    <ol>
+        <li>Tietoturvallisuuspolitiikka</li>
+        <ol>
+            <li><i>Tietoturvallisuuden tavoitteet</i></li>
+            <li><i>Tietoturvallisuuden organisaatio</i></li>
+            <li><i>Tietoturvallisuuden toteutuminen</i></li>
+        </ol>
+        <li>Riskienhallinta</li>
+        <ol>
+            <li><i>Tietojenkäsittelyn fyysisen turvallisuuden analyysi</i></li>
+            <li><i>Atk-riippuvuuden määrittely</i></li>
+            <li><i>Kriittisten tietojen haavoittuvuusanalyysi</i></li>
+        </ol>
+        <li>Tietoturvallisuusohjeisto</li>
+        <ol>
+            <li><i>Fyysinen turvallisuus</i></li>
+            <li><i>Asiakastietojen turvallisuus</i></li>
+            <li><i>Hallinnollisten tietojen turvallisuus</i></li>
+            <li><i>Laitteiston turvallisuus</i></li>
+            <ol>
+                <li>Käyttöjärjestelmän suojaus</li>
+                <li><i>Ohjelmistojen ja tiedostojen salaus</i></li>
+                <li><i>Tiedonsiirron suojaus</i></li>
+            </ol>
+            <li><i>Avainhenkilösijaisuudet</i></li>
+            <li><i>Vastuuorganisaatio</i></li>
+            <li><i>Raportointi ja seuranta</i></li>
+        </ol>
+        <li>Toipumissuunnitelma</li>
+        <ol>
+            <li><i>Määrittelyt</i></li>
+            <li><i>Valmiusorganisaatio</i></li>
+            <li><i>Toimintaohjeet</i></li>
+            <li><i>Raportointi ja seuranta</i></li>
+        </ol>
+        <li>Tietoturvallisuus uhkatekijät</li>
+        <ul type="disc">
+            <li>Näkökulmia</li>
+            <ul type="circle">
+                <li>mistä uhka tulee?</li>
+                <li>mitä vahinkoa se voi aiheuttaa</li>
+                <li>paljonko vahinko maksaa</li>
+                <li>voidaanko se korjata</li>
+                <li>mitä menetelmiä uhka käyttää vahingon aiheuttamiseksi</li>
+       </ol> 
+       <ol>
+       <ul type="disc">
+            <li>Laitteistojen heikkoudet</li>
+            <li>Troijan hevoset</li>
+             <ul type="circle">
+                <li>Murtaa suojaukseen aukkoja</li>
+        </ol>
+        <ol>
+        <ul type="disc">
+            <li>Virheelliset suojausmäärittelyt</li>
+            <li>Salasanojen arvailu</li>
+        </ul>
+        </ol>
+    </ol>
+    
+       
+     
+        
+</body>
+>>>>>>> 6d0d84d05dcc3035707085d1ae0d7eb8d93f2ff4
 </html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
