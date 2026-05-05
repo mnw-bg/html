@@ -1,0 +1,61 @@
+
+body{
+    font-size: 15px;
+    background-color: rgb(201, 196, 201);
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(233, 100, 146);
+}
+p{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+.city{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    background-color: rgb(234, 168, 168);
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-transform: uppercase;
+    text-align: center;
+    
+    width: 90%;
+    height: 100%;
+    gap: 20px;
+    background-color: rgb(233, 100, 142);
+
+    
+}
+.container div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    align-content: center;
+    background-color: rgb(184, 46, 46);
+    
+}
+.menu {
+
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+ 
+
+.menu li {
+
+  display: block;
+  
+  margin-right: 15px;
+
+}
