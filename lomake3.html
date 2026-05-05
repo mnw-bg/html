@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <title>Henkimaailman henkikirjoitus</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Henkimaailman henkikirjoitus</h1>
+
+    <p>Tervetuloa täyttämään henkimaailman henkikirjoituslomake. Ole ystävällinen ja vastaa alla oleviin kysymyksiin parhaan kykysi mukaan.</p>
+    
+    <p><strong>Lähetä</strong> tiedot painamalla Lähetä-painiketta.</p>
+
+    <hr>
+
+    <form action="#" method="post">
+        
+        <div class="form-group">
+            <label for="nimi">Nimi (ei pakollinen):</label>
+            <input type="text" id="nimi" name="nimi">
+        </div>
+
+        <div class="form-group">
+            <label>Sukupuoli:</label>
+            <input type="radio" id="mies" name="sukupuoli" value="mies">
+            <label for="mies" style="font-weight: normal;">Mies</label>
+            
+            <input type="radio" id="nainen" name="sukupuoli" value="nainen">
+            <label for="nainen" style="font-weight: normal;">Nainen</label>
+            
+            <input type="radio" id="entieda" name="sukupuoli" value="entieda">
+            <label for="entieda" style="font-weight: normal;">En tiedä</label>
+        </div>
+
+        <div class="form-group">
+            <label>Lisävarusteet (Valitse kaikki sopivat):</label>
+            
+            <div class="checkbox-group">
+                <input type="checkbox" id="huumori" name="varuste" value="vinksahtanut huumori">
+                <label for="huumori">Vinksahtanut huumorintaju</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="kala" name="varuste" value="kalanmaksaoljy">
+                <label for="kala">Kalanmaksaöljy</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="pakkanen" name="varuste" value="pakkasneste">
+                <label for="pakkanen">Pakkasneste</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="svga" name="varuste" value="svga">
+                <label for="svga">SVGA-tuki</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="pelko" name="varuste" value="pelko">
+                <label for="pelko">Olevaisen pelko</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="kataly" name="varuste" value="katalysaattori">
+                <label for="kataly">Katalysaattori</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="vitamiini" name="varuste" value="monivitamiinit">
+                <label for="vitamiini">Monivitamiinit</label>
+            </div>
+        </div>
+
+        <div class="buttons">
+            <input type="submit" value="Lähetä tiedot">
+            <input type="reset" value="Tyhjennä lomake">
+        </div>
+
+    </form>
+
+    <hr>
+
+</body>
+</html>

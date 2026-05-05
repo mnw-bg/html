@@ -1,18 +1,21 @@
-img{
-    border: 2px solid black;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding: 25px;
-}
-h1 {
-    color: green;
-    text-align: center;
-}
-body {
-    font-family: Arial, sans-serif;
-}
-line{
-    border: 1px solid grey;
-    width: 75%;
-}
+ table {
+            border-collapse: separate;
+            border-spacing: 2px;
+            border: 2px solid #888;
+            width: 600px;
+        }
+        td {
+            border: 1px solid #888;
+            padding: 5px;
+        }
+        .label-cell {
+            font-weight: bold;
+            text-align: center;
+            width: 30%;
+        }
+        input[type="text"], select, textarea {
+            width: 95%;
+        }
+        textarea {
+            height: 80px;
+        }
