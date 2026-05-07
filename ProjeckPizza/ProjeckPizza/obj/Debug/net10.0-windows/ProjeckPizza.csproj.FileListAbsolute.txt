@@ -1,0 +1,74 @@
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.exe
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.deps.json
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.runtimeconfig.json
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.MainMenu.resources
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.topping.resources
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.GenerateResource.cache
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfoInputs.cache
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfo.cs
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.CoreCompileInputs.cache
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\refint\ProjeckPizza.dll
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.genruntimeconfig.cache
+C:\Users\222990\source\repos\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ref\ProjeckPizza.dll
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.exe
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.deps.json
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.runtimeconfig.json
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.MainMenu.resources
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.Maksu.resources
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.GenerateResource.cache
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfoInputs.cache
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfo.cs
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.CoreCompileInputs.cache
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\refint\ProjeckPizza.dll
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.genruntimeconfig.cache
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ref\ProjeckPizza.dll
+C:\Users\Warayut\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.history.resources
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.exe
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.deps.json
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.runtimeconfig.json
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.history.resources
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.MainMenu.resources
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.Maksu.resources
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.GenerateResource.cache
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfoInputs.cache
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfo.cs
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.CoreCompileInputs.cache
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\refint\ProjeckPizza.dll
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.genruntimeconfig.cache
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ref\ProjeckPizza.dll
+C:\Users\222990\OneDrive - Savon koulutuskuntayhtymä\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.Properties.Resources.resources
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.exe
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.deps.json
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.runtimeconfig.json
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\bin\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.history.resources
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.MainMenu.resources
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.Maksu.resources
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.Properties.Resources.resources
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.GenerateResource.cache
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfoInputs.cache
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.AssemblyInfo.cs
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.csproj.CoreCompileInputs.cache
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.sourcelink.json
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.dll
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\refint\ProjeckPizza.dll
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.pdb
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ProjeckPizza.genruntimeconfig.cache
+C:\Users\222990\Documents\html\ProjeckPizza\ProjeckPizza\obj\Debug\net10.0-windows\ref\ProjeckPizza.dll
