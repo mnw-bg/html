@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  gap: 20px; /* Väli linkkien väliin */
+  list-style: none;
+  padding: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.cards {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between; /* Jakaa tilan tasaisesti */
+}
+
+.card {
+  background: #eee;
+  padding: 20px;
+  flex: 1; /* Kaikki kortit sama leveys */
+  text-align: center;
+  border-radius: 8px;
+}
+.center-box {
+  display: flex;
+  justify-content: center; /* Vaaka */
+  align-items: center;     /* Pysty */
+  height: 300px;
+  background: lightblue;
+}
