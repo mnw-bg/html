@@ -1,14 +1,12 @@
 
-*{
-    box-sizing:border-box;
-}
+
 body
 {
     font-family: Arial, sans-serif;
     font-size: 18px;
     margin: 0;
     padding: 20px;
-    background: url(background.jpg) no-repeat center center fixed;
+    background: url(background.jpg) center fixed;
 }
 .menu-kink {
     display: flex;
@@ -17,7 +15,7 @@ body
 }
 .menu-kink a {
     text-decoration: none;
-    color: #ff0000;
+    color: #006eff;
     font-weight: bold;
 }
 footer {
@@ -25,21 +23,23 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 20px;
+   
     border: 1px solid #000000;
     margin:10px;
 }
 footer a {
     text-decoration: none;
+    color: #0051ff;
     font-weight: bold;
     margin:10px;
     padding:20px;
   
 }
 table {
-    width: 100%;
+    width: 600px;
     border: 1px solid #000000;
     margin-top: 20px;
-    width: 600px;
+
 }
 table th, table td {
     border: 1px solid #000000;
