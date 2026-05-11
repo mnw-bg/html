@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+/* Yläpalkki */
+header {
+    background: #6b4f2f;
+    color: #fff;
+    padding: 10px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Hero-kuva */
+.hero {
+    width: 100%;
+    max-height: 380px;
+    overflow: hidden;
+}
+
+.hero img {
+    width: 100%;
+    display: block;
+}
+
+/* Sisältölaatikko */
+.wrapper {
+    max-width: 1000px;
+    margin: 20px auto 40px;
+    background: #fff;
+    padding: 20px 30px 40px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    margin-top: 0;
+}
+
+/* Yhteystiedot-sivun sarakkeet */
+.cols {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.col {
+    flex: 1 1 280px;
+}
+
+/* Alatunniste */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #ddd;
+    font-style: italic;
+}

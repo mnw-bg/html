@@ -1,0 +1,46 @@
+.galleria {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.item {
+    background-color: #ddd;
+    padding: 40px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 6px;
+}
+.sivu {
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "nav main"
+        "footer footer";
+    grid-template-columns: 200px 1fr;
+    gap: 10px;
+}
+
+header {
+    grid-area: header;
+    background: #b3d1ff;
+    padding: 20px;
+}
+
+nav {
+    grid-area: nav;
+    background: #d9ffd9;
+    padding: 20px;
+}
+
+main {
+    grid-area: main;
+    background: #ffe6b3;
+    padding: 20px;
+}
+
+footer {
+    grid-area: footer;
+    background: #ffcccc;
+    padding: 20px;
+}

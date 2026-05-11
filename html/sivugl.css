@@ -1,0 +1,86 @@
+/* Kohdistetaan kaikkiin elementteihin: käytetään border-box mallia,
+       jossa padding ja border lasketaan mukaan leveyteen ja korkeuteen */
+    * {
+      box-sizing: border-box;
+    }
+   
+    /* Vasen valikko (navigointi): kelluu vasemmalle, vie 20% tilasta,
+       keskittää tekstin ja sallii vierityksen tarvittaessa */
+    .nav {
+      float: left;
+      width: 20%;
+      text-align: center;
+      overflow: auto;
+    }
+   
+    /* Yläosan valikkosäiliö: sallii sisällön vierittämisen tarvittaessa */
+    .navyla {
+      overflow: auto;
+    }
+   
+    /* Valikon linkit: vaalea taustaväri, sisennys, marginaalia ylös,
+       näkyy lohkona (block), koko leveys, musta teksti */
+    .nav a {
+      background-color: #beb6b6;
+      padding: 8px;
+      margin-top: 7px;
+      display: block;
+      width: 100%;
+      color: black;
+    }
+     /* Valikon linkit korostus*/
+    .nav a:hover {
+        background-color: #cccccc;
+        color: white;
+    }
+   
+
+    /* Keskisisältö: kelluu vasemmalle, vie 60% tilasta,
+       sisätyylinen tyhjä tila (padding) molemmille puolille */
+    .main {
+      float: left;
+      width: 60%;
+      padding: 0 20px;
+    }
+   
+    /* Oikea palsta: vaalea tausta, kelluu vasemmalle, 20% tilasta,
+       sisennys, marginaalia ylös, keskitetty teksti */
+    .right {
+      background-color: #4d4a4a;
+      float: left;
+      width: 20%;
+      padding: 15px;
+      margin-top: 7px;
+      text-align: center;
+    }
+   
+    /* Media query: kun näytön leveys on korkeintaan 620px (esim. puhelin),
+       kaikki palstat vievät koko leveyden (100%) eli menevät päällekkäin */
+    @media only screen and (max-width: 620px) {
+      /* Puhelimille: valikko, pääsisältö ja oikea palsta täyteen leveyteen */
+      .nav, .main, .right {
+        width: 100%;
+      }
+    }
+   
+    /* Sivun alatunniste: vaalea tausta, keskitetty teksti, tyhjää tilaa sisällä ja yläpuolella */
+    .footer {
+      background-color: #298a46;
+      text-align: center;
+      padding: 10px;
+      margin-top: 7px;
+    }
+   
+    /* Kehon oletustyyli: fonttina Verdana, harmaa teksti */
+    body {
+      font-family: Verdana;
+      color: #aaaaaa;
+    }
+   
+    /* Sivun yläosa (otsikkoalue): vaalea tausta, sisennystä,
+       keskitetty teksti */
+    .header {
+      background-color: #51ba7b;
+      padding: 15px;
+      text-align: center;
+    }
