@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsiivinen kuva</title>
+    <style>
+        .responsive {
+            width: 100%;
+            height: auto;
+        }
+        body {
+            font-size: 18px; /* desktop */
+        }
+
+        @media (max-width: 600px) {
+            body {
+                font-size: 14px; /* mobiili */
+            }
+        }
+        .nav {
+            display: flex;
+            gap: 20px;
+        }
+
+        /* Mobiili: pystysuora */
+        @media (max-width: 600px) {
+            .nav {
+                flex-direction: column;
+            }
+        }
+        .kortit {
+            display: grid;
+            gap: 20px;
+            grid-template-columns: repeat(3, 1fr); /* desktop */
+        }
+
+        /* Tabletti */
+        @media (max-width: 900px) {
+            .kortit {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        /* Mobiili */
+        @media (max-width: 600px) {
+            .kortit {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .kortti {
+            background: #eee;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        /* GRID-POHJA */
+    .grid {
+        display: grid;
+        grid-template-areas:
+            "header header"
+            "nav main"
+            "nav aside"
+            "footer footer";
+        grid-template-columns: 200px 1fr;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    header { grid-area: header; }
+    nav { grid-area: nav; }
+    main { grid-area: main; }
+    aside { grid-area: aside; }
+    footer { grid-area: footer; }
+
+    /* FLEXBOX-NAVIGAATIO */
+    .nav {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* DESKTOP: vaakasuora navigaatio */
+    @media (min-width: 900px) {
+        .nav {
+            flex-direction: row;
+        }
+    }
+
+    /* TEKSTIN KOKO */
+    body {
+        font-size: 18px;
+    }
+
+    @media (max-width: 600px) {
+        body {
+            font-size: 14px;
+        }
+    }
+
+    /* MOBIILI: yksipalstainen layout */
+    @media (max-width: 600px) {
+        .grid {
+            grid-template-areas:
+                "header"
+                "nav"
+                "main"
+                "aside"
+                "footer";
+            grid-template-columns: 1fr;
+        }
+    }
+
+
+
+
+    </style>
+    
+</head>
+<body>
+
+<h2>Responsiivinen kuva</h2>
+<img src="pizza.jpg.png" alt="Esimerkkikuva" class="responsive">
+<nav class="nav">
+    <a href="#">Etusivu</a>
+    <a href="#">Tietoa</a>
+    <a href="#">Palvelut</a>
+    <a href="#">Yhteys</a>
+</nav>
+<div class="kortit">
+    <div class="kortti">Kortti 1</div>
+    <div class="kortti">Kortti 2</div>
+    <div class="kortti">Kortti 3</div>
+</div>
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft – Infosivu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="grid">
+
+    <header>
+        <h1>Minecraft</h1>
+    </header>
+
+    <nav class="nav">
+        <a href="#">Etusivu</a>
+        <a href="#">Historia</a>
+        <a href="#">Mobiili</a>
+        <a href="#">Lataukset</a>
+    </nav>
+
+    <main>
+        <h2>Mikä on Minecraft?</h2>
+        <p>Minecraft on hiekkalaatikkopeli, jossa pelaaja voi rakentaa, tutkia ja selviytyä avoimessa maailmassa.</p>
+    </main>
+
+    <aside>
+        <h3>Tietolaatikko</h3>
+        <p>Julkaistu: 2011<br>
+        Tekijä: Mojang<br>
+        Genre: Sandbox</p>
+    </aside>
+
+    <footer>
+        © 2026 Minecraft Info
+    </footer>
+
+</div>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
